@@ -44,7 +44,7 @@
   {
      "access_token":"c74b5b9aada66e4cdc16726dc493e682", # 请求令牌
      "dwbh":"DWI00000299", # 单位内码
-     "goods_info":"all"   # 验证值(all)
+     "goods_salt":"all"   # 验证值(all)
   
   }
   ```
